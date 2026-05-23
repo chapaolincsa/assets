@@ -1,0 +1,134 @@
+[
+    {
+        "titulo": "A Riqueza das Nações",
+        "autor": "Adam Smith",
+        "data": "1776",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/1zXiFlDuthYXcD_G3sBj13gxlUqW_Hkmq/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/ariqueza.png" 
+    },
+    {
+        "titulo": "A Metamorfose",
+        "autor": "Franz Kafka",
+        "data": "1915",
+        "categoria": "",
+        "arquivo": "https://drive.google.com/file/d/1GMWiePUhWWMeOI9x1OZsjU6zzeSO8gOu/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/ametamorfose.png" 
+    },
+    {
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "data": "1605",
+        "categoria": "",
+        "arquivo": "https://drive.google.com/file/d/1OUQe0AcqUtKkfwgf49boMQ-4KiCOmCB8/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/dom.png" 
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "data": "1601",
+        "categoria": "",
+        "arquivo": "https://drive.google.com/file/d/182-dGm1qDcbvfB1f8K4093TwqzcXyKIQ/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/ham.png" 
+    },
+    {
+        "titulo": "O Diário de Anne Frank",
+        "autor": "Anne Frank",
+        "data": "1947",
+        "categoria": "",
+        "arquivo": "https://drive.google.com/file/d/1gF92PFcCYQE1nfFChnOohLcaVxhPaM1-/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/anne.png" 
+    },
+    {
+        "titulo": "Manifesto Comunista",
+        "autor": "Karl Marx e Friedrich Engels",
+        "data": "1848",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/1mnA68y2Uy5LHA8Up8NiSKJLlXzi6wi3A/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/comu.png" 
+    },{
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "data": "1890",
+        "categoria": "Vestibular",
+        "arquivo": "https://drive.google.com/file/d/1qSMoN9gn5T7cwKPEADScxAz0-4tsFutt/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/corti.png" 
+    },{
+        "titulo": "Quincas Borba",
+        "autor": "Machado de Assis",
+        "data": "1891",
+        "categoria": "Vestibular",
+        "arquivo": "https://drive.google.com/file/d/17XkiprIK249qED4OBsN4CrQ53l6m4Zwh/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/quincas.png" 
+    },{
+        "titulo": "O Príncipe",
+        "autor": "Nicolau Maquiavel",
+        "data": "1532",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/18DQsyLKrIWRGoZN8f0DGr3iUrDW3P4Am/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/princi.png" 
+    },{
+        "titulo": "Os Lusíadas",
+        "autor": "Luís de Camões",
+        "data": "1572",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/1YPj1NfKrTbXcsCS55YPi4QjRMQL7-FL1/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/lusi.png" 
+    },{
+        "titulo": "A República",
+        "autor": "Platão",
+        "data": "370 a.C",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/1zZjCMCOLqLI4KanOsnIs8UeHCb6lTVPq/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/repu.png" 
+    },{
+        "titulo": "Matemática Contexto e Aplicações Vol. 1", 
+        "autor": "Luiz Roberto Dante",
+        "data": "2016",
+        "categoria": "Exatas",
+        "arquivo": "https://drive.google.com/file/d/1y8UWzavBrtKimehoQpxOqAl4ncS30l94/view?usp=sharing",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/dante1.png" 
+    },{
+        "titulo": "Matemática Contexto e Aplicações Vol. 2",
+        "autor": "Luiz Roberto Dante",
+        "data": "2016",
+        "categoria": "Exatas",
+        "arquivo": "https://drive.google.com/file/d/1CTHOOPQ-I7sL99EzMYubbsuhhz5rWdgx/view?usp=sharing",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/dante2.png" 
+    },{
+        "titulo": "Matemática Contexto e Aplicações Vol. 3",
+        "autor": "Luiz Roberto Dante",
+        "data": "2016",
+        "categoria": "Exatas",
+        "arquivo": "https://drive.google.com/file/d/1CWI_fgZFGUD8J9bocd2na52jU74stfL8/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/dante3.png" 
+    },{
+        "titulo": "Formulação e Resolução de Problemas",
+        "autor": "Luiz Roberto Dante",
+        "data": "2009",
+        "categoria": "Exatas",
+        "arquivo": "https://drive.google.com/file/d/1_DkDF7fJYXUSfPq5noEwg4cciQs9ntGK/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/dante5.png" 
+    },{
+        "titulo": "Por uma Outra Globalização",
+        "autor": "Milton Santos",
+        "data": "2000",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/1NV0U2NwbOazarNi-hODgVg7DcnCZu0P5/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/globa.png" 
+    },{
+        "titulo": "Cosmos",
+        "autor": "Carl Sagan",
+        "data": "1980",
+        "categoria": "Exatas",
+        "arquivo": "https://drive.google.com/file/d/1MgGTC9ZeN5RXc2Jc2gMWkePs9Io3t--c/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/cosmos.png" 
+    },{
+        "titulo": "É Assim Que Acaba",
+        "autor": "Colleen Hoover",
+        "data": "2018",
+        "categoria": "Humanas",
+        "arquivo": "https://drive.google.com/file/d/1IuL_jiII_k7pCLpNAr__97_kakmFOKTN/view?usp=drive_link",
+        "capa": "https://cdn.jsdelivr.net/gh/chapaolincsa/assets@main/capas/acaba.png" 
+    }
+]
